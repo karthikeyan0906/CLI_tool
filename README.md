@@ -26,6 +26,6 @@ Pronunciation: /pɛn/
 Note : 
 
 I have used a free API endpoint which doesnt require any API key or creds 
- https://api.dictionaryapi.dev.
+ https://api.dictionaryapi.dev/api/v2/entries/en/pen
 
 
